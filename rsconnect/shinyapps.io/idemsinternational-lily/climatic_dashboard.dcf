@@ -1,0 +1,12 @@
+name: climatic_dashboard
+title: climatic_dashboard
+username: idemsinternational-lily
+account: idemsinternational-lily
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12885587
+bundleId:
+url: https://parentapp.shinyapps.io/climatic_dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
